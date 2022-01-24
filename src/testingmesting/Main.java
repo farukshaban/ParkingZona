@@ -4,6 +4,14 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Zoni za parkiranje:");
+        System.out.println("Zona 1: Centar");
+        System.out.println("Zona 2: Karpos");
+        System.out.println("Zona 3: Crnice");
+        System.out.println("Zona 4: Cair");
+        System.out.println("Zona 5: Butel");
+        System.out.println("Zona 6: Aerodrom");
+
         System.out.println("Odberete parking zona pomegju 1 i 6: ");
 
         Zona1 centar = new Zona1();
