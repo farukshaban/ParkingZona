@@ -6,7 +6,7 @@ public class Zona4 {
     public int freesSpaceCair = 18;
     public int price = 15;
     public void getZona4text() {
-        System.out.println("Vo zona " + cair + " imate " + freesSpaceCair + "mesta");
+        System.out.println("Vo zona " + cair + " imate " + freesSpaceCair + "slobodni mesta");
         System.out.println("Iznosot na parkiranje ke iznesuva " + price + " denari za eden cas");
     }
 }
